@@ -4,7 +4,7 @@ using Socket.io, Node.js, and React. to build a simple real time chat app.
 
 ## Instructions
 1: clone the project<br>
-`git clone https://github.com/AdhamMagdyA/ImageProcessingAPI.git`
+`git clone https://github.com/AdhamMagdyA/ImageProcessingAPI.git`<br>
 2: install dependencies & run for backend <br>
 `cd backend`<br>
 `npm install`<br>
